@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thinks on Are you ok?</title>
+    <link>http://ow.pengchangwen.site/think/</link>
+    <description>Recent content in Thinks on Are you ok?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>iierwin37@gmail.com (langchao)</managingEditor>
+    <webMaster>iierwin37@gmail.com (langchao)</webMaster>
+    <copyright>© 浪潮 {year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="http://ow.pengchangwen.site/think/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Emoji Support</title>
+        <link>http://ow.pengchangwen.site/think/emoji-support/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>iierwin37@gmail.com (langchao)</author>
+        <guid>http://ow.pengchangwen.site/think/emoji-support/</guid>
+        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      </item>
+      
+    
+  </channel>
+</rss>
